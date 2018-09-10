@@ -262,7 +262,7 @@ legend {
   display: block;
   border-style: inset;
   border-width: 7px;
-  border-color: coral;
+  border-color: #000000;
 }
 label {
   float: left;
