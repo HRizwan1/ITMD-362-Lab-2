@@ -316,3 +316,8 @@ input[type=date] {
   padding-left: 5px;
   text-align: left;
 }
+footer {
+  font-size: 10px;
+  text-align: center;
+  color: #670253;
+}
