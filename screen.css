@@ -250,3 +250,69 @@ textarea {
     width: 100%;
   }
 }
+legend {
+  font-weight: 900;
+  color: #670253;
+  font-size: 25px;
+  margin-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: block;
+  border-style: inset;
+  border-width: 7px;
+  border-color: coral;
+}
+label {
+  float: left;
+  display: block;
+  width: 20%;
+  margin-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 600;
+  font-size: 22px;
+  font-family: Algerian, sans-serif;
+}
+fieldset {
+  padding: 20px;
+  margin-left: 6px;
+  margin-top: 22px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+ }
+body {
+  background-color: #a7eadd;
+  padding: 25px;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+p {
+  font-size: 15px;
+  font-family: Berlin Sans FB, sans-serif;
+  margin-top: 22px;
+  margin-bottom: 22px;
+  margin-left: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+	}
+input[type=submit] {
+  text-align: right;
+  margin-top: 35px;
+  margin-left: 30px;
+}
+input[type=email] {
+  padding-left: 5px;
+  text-align: left;
+}
+
+input[type=text] {
+  padding-left: 5px;
+  text-align: left;
+}
+
+input[type=date] {
+  padding-left: 5px;
+  text-align: left;
+}
